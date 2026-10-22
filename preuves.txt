@@ -1,0 +1,29 @@
+PS C:\Users\DELL\Documents\recette-cinema> node partie1.js
+la personne a 11ans et le prix du bullet est 1500 FCFA
+la personne a 12ans et le prix du bullet est 1500 FCFA
+la personne a 13ans et le prix du bullet est 1500 FCFA
+la personne a 14ans et le prix du bullet est 1500 FCFA
+la personne a 15ans et le prix du bullet est 1500 FCFA
+la personne a 16ans et le prix du billet est 2500 FCFA
+la personne a 17ans et le prix du billet est 2500 FCFA
+la personne a 18ans et le prix du billet est 2500 FCFA
+la personne a 19ans et le prix du billet est 2500 FCFA
+la personne a 20ans et le prix du billet est 2500 FCFA
+la recette total est 20000
+on a pour les moins de 16ans les tickets vendus sont au nombre de 5 et pour les plus de 16ans sont au nombre de 5
+
+
+
+PS C:\Users\DELL\Documents\recette-cinema> node partie2.js                                       
+la personne a 11ans et le prix du bullet est 1500 FCFA
+la personne a 12ans et le prix du bullet est 1500 FCFA
+la personne a 13ans et le prix du bullet est 1500 FCFA
+la personne a 14ans et le prix du bullet est 1500 FCFA
+la personne a 15ans et le prix du bullet est 1500 FCFA
+la personne a 16ans et le prix du billet est 2500 FCFA
+la personne a 17ans et le prix du billet est 2500 FCFA
+la personne a 18ans et le prix du billet est 2000 FCFA
+la personne a 19ans et le prix du billet est 2000 FCFA
+la personne a 20ans et le prix du billet est 2000 FCFA
+la recette total est 18500
+on a pour les moins de 16ans les tickets vendus sont au nombre de 5,  pour ceux de 16 à 18ans sont au nombre de 2 et pour ceux qui sont entre 18ans et 20ans sont au nombre de 3 
